@@ -17,7 +17,8 @@
   },
   "dependencies": {
     "optimist": "0.3",
-    "queue-async": "1"
+    "queue-async": "1",
+    "request": "^2.69.0"
   },
   "bin": {
     "gistup": "./bin/gistup",
